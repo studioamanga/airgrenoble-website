@@ -1,5 +1,5 @@
 all:
-	git -C ../../../Projects/AirGrenoble/ pull
-	cp ../../../Projects/AirGrenoble/releasenotes.html .
+	git -C ~/Developer/AirGrenoble/ pull
+	cp ~/Developer/AirGrenoble/releasenotes.html .
 	open .
 	open /Applications/Cyberduck.app
